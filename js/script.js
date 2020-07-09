@@ -11,7 +11,9 @@ function getRndInteger(min, max) {
 
 var main = function() {
     var quote = quotes[getRndInteger(0, quotes.length)];
-    console.log(quote);
+    //console.log(quote);
+    document.querySelector("#quote").innerHTML = quote.quote;
+    document.querySelector("#author").innerHTML = quote.author;
 }
 
 window.onload = main;

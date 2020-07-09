@@ -1,5 +1,18 @@
 
 
 body {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+main {
     font-family: 'Parisienne', cursive;
+    font-size: xx-large;
+    text-align: center;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    position: absolute;
 }
