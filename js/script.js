@@ -16,4 +16,4 @@ var main = function() {
     document.querySelector("#author").innerHTML = quote.author;
 }
 
-window.onload = main;
+// window.onload = main;

@@ -9,6 +9,20 @@
         <link href="css/main.css" rel="stylesheet"/>
         <script src="js/quotes.js"></script>
         <script src="js/script.js"></script>
+        
+        <!-- https://stackoverflow.com/questions/4712242/wait-for-fonts-to-load-before-rendering-web-page -->
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+        <script>
+            WebFont.load({
+                custom: {
+                    families: ["Parisienne"]
+                },
+                active: function() {
+                    //Render your page
+                    main()
+                }
+            });
+        </script>
     </head>
     <body onclick="main()">
         <main>
