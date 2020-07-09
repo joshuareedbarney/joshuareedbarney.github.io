@@ -16,7 +16,6 @@ var newQuote = function() {
     // getRndInteger(0, quotes.length)
     var quote = quotes[cur_index];
     cur_index = (cur_index + 1) % quotes.length;
-    console.log(cur_index);
     //console.log(quote);
     document.querySelector("#quote").innerHTML = quote.quote;
     document.querySelector("#author").innerHTML = quote.author;
