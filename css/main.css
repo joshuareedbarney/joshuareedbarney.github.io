@@ -16,3 +16,20 @@ main {
     margin: 0;
     position: absolute;
 }
+
+@media screen and (max-width: 481px) {
+    body {
+        display: flex;
+    }
+
+    main {
+        width: 100%;
+        left: 0%;
+        font-size: 2em;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        transform: none;
+        text-align: left;
+    }
+}
