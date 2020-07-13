@@ -291,5 +291,8 @@ var quotes = [
     {"quote":"Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.","author":"Samuel Smiles"},
     {"quote":"We cannot live only for ourselves. A thousand fibers connect us with our fellow men.","author":"Herman Melville"},
     {"quote":"Love and compassion are necessities, not luxuries. Without them humanity cannot survive.","author":"Dalai Lama"},
-    {"quote":"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.","author":"Antoine de Saint-Exupery"}
+    {"quote":"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.","author":"Antoine de Saint-Exupery"},
+    {"quote":"For every minute you remain angry, you give up sixty seconds of peace of mind.","author":"Ralph Waldo Emerson"},
+    {"quote":"What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.","author":"Ralph Waldo Emerson"},
+    {"quote":"The future is no more uncertain than the present.","author":"Walt Whitman"}
 ]
