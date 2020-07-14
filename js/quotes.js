@@ -294,5 +294,9 @@ var quotes = [
     {"quote":"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.","author":"Antoine de Saint-Exupery"},
     {"quote":"For every minute you remain angry, you give up sixty seconds of peace of mind.","author":"Ralph Waldo Emerson"},
     {"quote":"What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.","author":"Ralph Waldo Emerson"},
-    {"quote":"The future is no more uncertain than the present.","author":"Walt Whitman"}
+    {"quote":"The future is no more uncertain than the present.","author":"Walt Whitman"},
+    {"quote":"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.","author":"John F. Kennedy"},
+    {"quote":"There are risks and costs to action. But they are far less than the long range risks of comfortable inaction.","author":"John F. Kennedy"},
+    {"quote":"Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.","author":"Abraham Lincoln"},
+    {"quote":"I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.","author":"George Washington"}
 ]
