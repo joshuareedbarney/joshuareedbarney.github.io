@@ -298,5 +298,8 @@ var quotes = [
     {"quote":"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.","author":"John F. Kennedy"},
     {"quote":"There are risks and costs to action. But they are far less than the long range risks of comfortable inaction.","author":"John F. Kennedy"},
     {"quote":"Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.","author":"Abraham Lincoln"},
-    {"quote":"I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.","author":"George Washington"}
+    {"quote":"I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.","author":"George Washington"},
+    {"quote":"Don't judge each day by the harvest you reap but by the seeds that you plant.","author":"Robert Louis Stevenson"},
+    {"quote":"No act of kindness, no matter how small, is ever wasted.","author":"Aesop"},
+    {"quote":"Pursue what is Meaningful, not what is Expedient","author":"Jordan Peterson"}
 ]
