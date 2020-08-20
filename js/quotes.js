@@ -301,5 +301,6 @@ var quotes = [
     {"quote":"I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.","author":"George Washington"},
     {"quote":"Don't judge each day by the harvest you reap but by the seeds that you plant.","author":"Robert Louis Stevenson"},
     {"quote":"No act of kindness, no matter how small, is ever wasted.","author":"Aesop"},
-    {"quote":"Pursue what is Meaningful, not what is Expedient","author":"Jordan Peterson"}
+    {"quote":"Pursue what is Meaningful, not what is Expedient.","author":"Jordan Peterson"},
+    {"quote":"The question isn't who is going to let me; it's who is going to stop me.","author":"Ayn Rand"}
 ]
