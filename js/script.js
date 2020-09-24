@@ -91,9 +91,9 @@ function handleTouchMove(evt) {
 
     if ( Math.abs( xDiff ) > Math.abs( yDiff ) ) {/*most significant*/
         if ( xDiff > 0 ) {
-            newQuote();
+            newQuote(); /* left swipe */
         } else {
-            lastQuote();
+            lastQuote(); /* right swipe */
         }
     } else {
         if ( yDiff > 0 ) {
