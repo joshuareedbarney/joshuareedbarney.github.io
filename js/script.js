@@ -13,6 +13,7 @@ function getRndInteger(min, max) {
 }
 
 var newQuote = function() {
+
     // getRndInteger(0, quotes.length)
     cur_index = (cur_index + 1) % quotes.length;
     var quote = quotes[cur_index];
@@ -31,6 +32,17 @@ var lastQuote = function() {
     document.querySelector("#quote").innerHTML = quote.quote;
     document.querySelector("#author").innerHTML = quote.author;
 }
+
+//Add functionality to go to previous quote by clicking 
+// or pressing finger on the left most side of the screen.
+document.addEventListener("click", function(event) {
+    if (event.target == document.getElementById("back")) {
+        lastQuote();
+    }
+    else {
+        newQuote();
+    }
+});
 
 //https://javascript.info/task/shuffle
 function shuffle(array) {

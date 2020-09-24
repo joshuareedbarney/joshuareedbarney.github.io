@@ -38,3 +38,12 @@ main {
         text-align: center;
     }
 }
+
+#back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 15%;
+    z-index: 5;
+}
