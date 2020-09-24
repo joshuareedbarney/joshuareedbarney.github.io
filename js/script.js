@@ -35,7 +35,7 @@ var lastQuote = function() {
 
 //Add functionality to go to previous quote by clicking 
 // or pressing finger on the left most side of the screen.
-document.addEventListener("click", function(event) {
+document.querySelector("html").addEventListener("click", function(event) {
     if (event.target == document.getElementById("back")) {
         lastQuote();
     }
