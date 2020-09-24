@@ -40,6 +40,24 @@ function shuffle(array) {
     }
 }
 
+var main = function() {
+    shuffle(quotes);
+
+    //https://stackoverflow.com/questions/5597060/detecting-arrow-key-presses-in-javascript
+    document.querySelector("html").addEventListener('keydown', function(event) {
+        const key = event.key;
+
+        switch (key) {
+            case "ArrowRight":
+                newQuote();
+                break;
+            case "ArrowLeft":
+                lastQuote();
+                break;
+        }
+    });
+}
+
 /**
  * https://stackoverflow.com/questions/2264072/detect-a-finger-swipe-through-javascript-on-the-iphone-and-android
  */
@@ -62,23 +80,5 @@ slider.addEventListener('touchend', e => {
   handleGesure();
 });
 
-
-var main = function() {
-    shuffle(quotes);
-
-    //https://stackoverflow.com/questions/5597060/detecting-arrow-key-presses-in-javascript
-    document.querySelector("html").addEventListener('keydown', function(event) {
-        const key = event.key;
-
-        switch (key) {
-            case "ArrowRight":
-                newQuote();
-                break;
-            case "ArrowLeft":
-                lastQuote();
-                break;
-        }
-    });
-}
 
 // window.onload = main;
