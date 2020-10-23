@@ -12,6 +12,11 @@ function getRndInteger(min, max) {
     return Math.floor(Math.random() * (max - min) ) + min;
 }
 
+// function addBreaks(str1) {
+//     let str2 = (' ' + str1).slice(1);
+//     return str2.replace(/\. /g, ".<br/>").replace(/; /g, ";<br/>");
+// }
+
 var newQuote = function() {
 
     // getRndInteger(0, quotes.length)
@@ -20,7 +25,7 @@ var newQuote = function() {
     //console.log(quote);
     document.querySelector("#quote").innerHTML = quote.quote;
     document.querySelector("#author").innerHTML = quote.author;
-}
+};
 
 var lastQuote = function() {
     cur_index = cur_index - 1;
@@ -31,7 +36,7 @@ var lastQuote = function() {
     var quote = quotes[cur_index];
     document.querySelector("#quote").innerHTML = quote.quote;
     document.querySelector("#author").innerHTML = quote.author;
-}
+};
 
 //Add functionality to go to previous quote by clicking 
 // or pressing finger on the left most side of the screen.
@@ -68,7 +73,7 @@ var main = function() {
                 break;
         }
     });
-}
+};
 
 /**
  * https://stackoverflow.com/questions/2264072/detect-a-finger-swipe-through-javascript-on-the-iphone-and-android
