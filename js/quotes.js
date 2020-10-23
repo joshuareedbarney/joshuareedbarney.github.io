@@ -302,5 +302,9 @@ var quotes = [
     {"quote":"Don't judge each day by the harvest you reap but by the seeds that you plant.","author":"Robert Louis Stevenson"},
     {"quote":"No act of kindness, no matter how small, is ever wasted.","author":"Aesop"},
     {"quote":"Pursue what is Meaningful, not what is Expedient.","author":"Jordan Peterson"},
-    {"quote":"The question isn't who is going to let me; it's who is going to stop me.","author":"Ayn Rand"}
+    {"quote":"The question isn't who is going to let me; it's who is going to stop me.","author":"Ayn Rand"},
+    {"quote":"I believe things cannot make themselves impossible.","author":"Stephen Hawking"},
+    {"quote":"When I was young, I admired clever people. Now that I am old, I admire kind people.","author":"Abraham Joshua Heschel"},
+    {"quote":"Wonder rather than doubt is the root of all knowledge.","author":"Abraham Joshua Heschel"},
+    {"quote":"God is of no importance unless He is of supreme importance.","author":"Abraham Joshua Heschel"}
 ]
