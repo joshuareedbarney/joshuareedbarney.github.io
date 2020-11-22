@@ -306,5 +306,13 @@ var quotes = [
     {"quote":"I believe things cannot make themselves impossible.","author":"Stephen Hawking"},
     {"quote":"When I was young, I admired clever people. Now that I am old, I admire kind people.","author":"Abraham Joshua Heschel"},
     {"quote":"Wonder rather than doubt is the root of all knowledge.","author":"Abraham Joshua Heschel"},
-    {"quote":"God is of no importance unless He is of supreme importance.","author":"Abraham Joshua Heschel"}
+    {"quote":"God is of no importance unless He is of supreme importance.","author":"Abraham Joshua Heschel"},
+    {"quote":"A happy life consists not in the absence, but in the mastery of hardships.","author":"Helen Keller"},
+    {"quote":"If we had no faults we should not take so much pleasure in noting those of others.","author":"François de La Rochefoucauld"},
+    {"quote":"What makes the vanity of others insufferable to us is that it wounds our own.","author":"François de La Rochefoucauld"},
+    {"quote":"Quarrels would not last long if the fault were only on one side.","author":"François de La Rochefoucauld"},
+    {"quote":"A people that values its privileges above its principles soon loses both.","author":"Dwight D. Eisenhower"},
+    {"quote":"I disapprove of what you say, but I will defend to the death your right to say it.","author":"Evelyn Beatrice Hall"},
+    {"quote":"I hear you say 'Why?' Always 'Why?' You see things; and you say 'Why?' But I dream things that never were; and I say 'Why not?'","author":"George Bernard Shaw"},
+    {"quote":"It is better to be hated for what you are than loved for what you are not.","author":"André Gide"}
 ]
