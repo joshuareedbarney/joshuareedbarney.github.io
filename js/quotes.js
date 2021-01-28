@@ -315,5 +315,6 @@ var quotes = [
     {"quote":"I disapprove of what you say, but I will defend to the death your right to say it.","author":"Evelyn Beatrice Hall"},
     {"quote":"I hear you say 'Why?' Always 'Why?' You see things; and you say 'Why?' But I dream things that never were; and I say 'Why not?'","author":"George Bernard Shaw"},
     {"quote":"It is better to be hated for what you are than loved for what you are not.","author":"André Gide"},
-    {"quote":"Faith is not certainty. Faith is the courage to live with uncertainty.","author":"Rabbi Jonathan Sacks"}
+    {"quote":"Faith is not certainty. Faith is the courage to live with uncertainty.","author":"Rabbi Jonathan Sacks"},
+    {"quote":"Seek First to Understand, Then to be Understood.","author":"Steven R. Covey"}
 ]
