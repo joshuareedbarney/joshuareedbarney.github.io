@@ -316,5 +316,6 @@ var quotes = [
     {"quote":"I hear you say 'Why?' Always 'Why?' You see things; and you say 'Why?' But I dream things that never were; and I say 'Why not?'","author":"George Bernard Shaw"},
     {"quote":"It is better to be hated for what you are than loved for what you are not.","author":"André Gide"},
     {"quote":"Faith is not certainty. Faith is the courage to live with uncertainty.","author":"Rabbi Jonathan Sacks"},
-    {"quote":"Seek First to Understand, Then to be Understood.","author":"Steven R. Covey"}
+    {"quote":"Seek First to Understand, Then to be Understood.","author":"Steven R. Covey"},
+    {"quote":"The Sundial:<br/>The shadow by my finger cast<br/>Divides the future from the past:<br/>Before it, sleeps the unborn hour<br/>In darkness, and beyond thy power:<br/>Behind its unreturning line,<br/>The vanished hour, no longer thine:<br/>One hour alone is in thy hands,--<br/>The NOW on which the shadow stands.","author":"Henry Van Dyke"}
 ]
