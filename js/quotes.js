@@ -317,5 +317,11 @@ var quotes = [
     {"quote":"It is better to be hated for what you are than loved for what you are not.","author":"André Gide"},
     {"quote":"Faith is not certainty. Faith is the courage to live with uncertainty.","author":"Rabbi Jonathan Sacks"},
     {"quote":"Seek First to Understand, Then to be Understood.","author":"Steven R. Covey"},
-    {"quote":"The Sundial:<br/>The shadow by my finger cast<br/>Divides the future from the past:<br/>Before it, sleeps the unborn hour<br/>In darkness, and beyond thy power:<br/>Behind its unreturning line,<br/>The vanished hour, no longer thine:<br/>One hour alone is in thy hands,--<br/>The NOW on which the shadow stands.","author":"Henry Van Dyke"}
+    {"quote":"The Sundial:<br/>The shadow by my finger cast<br/>Divides the future from the past:<br/>Before it, sleeps the unborn hour<br/>In darkness, and beyond thy power:<br/>Behind its unreturning line,<br/>The vanished hour, no longer thine:<br/>One hour alone is in thy hands,--<br/>The NOW on which the shadow stands.","author":"Henry Van Dyke"},
+    {"quote":"We gain the strength of the temptation we resist.","author":"Ralph Waldo Emerson"},
+    {"quote":"You cannot do a kindness too soon, for you never know how soon it will be too late.","author":"Ralph Waldo Emerson"},
+    {"quote":"Fiction reveals truth that reality obscures.","author":"Ralph Waldo Emerson"},
+    {"quote":"Truth is the property of no individual but is the treasure of all [people].","author":"Ralph Waldo Emerson"},
+    {"quote":"Before we acquire great power we must acquire wisdom to use it well.","author":"Ralph Waldo Emerson"},
+    {"quote":"A hero is no braver than an ordinary man, but he is brave five minutes longer.","author":"Ralph Waldo Emerson"}
 ]
