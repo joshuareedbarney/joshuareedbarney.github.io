@@ -323,5 +323,6 @@ var quotes = [
     {"quote":"Fiction reveals truth that reality obscures.","author":"Ralph Waldo Emerson"},
     {"quote":"Truth is the property of no individual but is the treasure of all [people].","author":"Ralph Waldo Emerson"},
     {"quote":"Before we acquire great power we must acquire wisdom to use it well.","author":"Ralph Waldo Emerson"},
-    {"quote":"A hero is no braver than an ordinary man, but he is brave five minutes longer.","author":"Ralph Waldo Emerson"}
+    {"quote":"A hero is no braver than an ordinary man, but he is brave five minutes longer.","author":"Ralph Waldo Emerson"},
+    {"quote":"The eye sees only what the mind is prepared to comprehend","author":"Henri Bergson"}
 ]
