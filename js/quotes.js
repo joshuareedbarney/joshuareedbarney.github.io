@@ -324,5 +324,6 @@ var quotes = [
     {"quote":"Truth is the property of no individual but is the treasure of all [people].","author":"Ralph Waldo Emerson"},
     {"quote":"Before we acquire great power we must acquire wisdom to use it well.","author":"Ralph Waldo Emerson"},
     {"quote":"A hero is no braver than an ordinary man, but he is brave five minutes longer.","author":"Ralph Waldo Emerson"},
-    {"quote":"The eye sees only what the mind is prepared to comprehend","author":"Henri Bergson"}
+    {"quote":"The eye sees only what the mind is prepared to comprehend","author":"Henri Bergson"},
+    {"quote":"Thus, we never see the true state of our condition till it is illustrated to us by its contraries, nor know how to value what we enjoy, but by the want of it.","author":"Daniel Defoe"}
 ]
