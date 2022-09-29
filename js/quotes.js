@@ -326,5 +326,6 @@ var quotes = [
     {"quote":"A hero is no braver than an ordinary man, but he is brave five minutes longer.","author":"Ralph Waldo Emerson"},
     {"quote":"The eye sees only what the mind is prepared to comprehend","author":"Henri Bergson"},
     {"quote":"Thus, we never see the true state of our condition till it is illustrated to us by its contraries, nor know how to value what we enjoy, but by the want of it.","author":"Daniel Defoe"},
-    {"quote":"It is a modern tragedy that despair has so many spokesmen, and hope so few.","author":"Oscar Hammerstein II"}
+    {"quote":"It is a modern tragedy that despair has so many spokesmen, and hope so few.","author":"Oscar Hammerstein II"},
+    {"quote":"I wouldn't have seen it if I hadn't believed it.","author":"Marshall McLuhan"}
 ]
