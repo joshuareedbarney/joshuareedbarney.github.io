@@ -327,5 +327,7 @@ var quotes = [
     {"quote":"The eye sees only what the mind is prepared to comprehend","author":"Henri Bergson"},
     {"quote":"Thus, we never see the true state of our condition till it is illustrated to us by its contraries, nor know how to value what we enjoy, but by the want of it.","author":"Daniel Defoe"},
     {"quote":"It is a modern tragedy that despair has so many spokesmen, and hope so few.","author":"Oscar Hammerstein II"},
-    {"quote":"I wouldn't have seen it if I hadn't believed it.","author":"Marshall McLuhan"}
+    {"quote":"I wouldn't have seen it if I hadn't believed it.","author":"Marshall McLuhan"},
+    {"quote":"Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say.","author":"Edward Snowden"},
+    {"quote":"I would rather be without a state than without a voice.","author":"Edward Snowden"}
 ]
