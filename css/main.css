@@ -3,7 +3,7 @@
 body {
     display: flex;
     align-items: center;
-    height: 100vh;
+    height: 95vh;
 }
 
 main {
@@ -13,16 +13,27 @@ main {
     top: 10%;
     left: 50%;
     height: fit-content;
+    width: fit-content;
     margin-right: -50%;
     transform: translate(-50%, 0%);
     margin: 0;
     position: absolute;
+    padding: 0;
 }
 
-@media screen and (max-width: 481px) {
+#quote {
+    margin-bottom: 0.75em;
+}
+
+html {
+    background-color: black;
+    color: white;
+}
+
+@media screen and (max-width: 750px) {
     body {
         display: flex;
-        height: 100vh;
+        height: 95vh;
     }
 
     main {

@@ -182,7 +182,7 @@ var quotes = [
     {"quote":"I'd rather have roses on my table than diamonds on my neck.","author":"Emma Goldman"},
     {"quote":"If you want others to be happy,<br/> practice compassion.<br/> If you want to be happy,<br/> practice compassion.","author":"Dalai Lama"},
     {"quote":"Much that passes as idealism is disguised hatred or disguised love of power.","author":"Bertrand Russell"},
-    {"quote":"Simplicity is the ultimate sophistication.","author":"Jeff Rich"},
+    {"quote":"Simplicity is the ultimate sophistication.","author":"Leonardo Da Vinci"},
     {"quote":"Love is not only something you feel, it is something you do.","author":"David Wilkerson"},
     {"quote":"There are a thousand hacking at the branches of evil to one who is striking at the root.","author":"Henry David Thoreau"},
     {"quote":"If we open a quarrel between past and present, we shall find that we have lost the future.","author":"Winston Churchill"},

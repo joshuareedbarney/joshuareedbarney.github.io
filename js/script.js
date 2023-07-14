@@ -17,7 +17,10 @@ function getRndInteger(min, max) {
 //     return str2.replace(/\. /g, ".<br/>").replace(/; /g, ";<br/>");
 // }
 
+var lastTimeQuoteChanged = Date.now();
+
 var newQuote = function() {
+    lastTimeQuoteChanged = Date.now();
 
     // getRndInteger(0, quotes.length)
     cur_index = (cur_index + 1) % quotes.length;
@@ -28,6 +31,8 @@ var newQuote = function() {
 };
 
 var lastQuote = function() {
+    lastTimeQuoteChanged = Date.now();
+
     cur_index = cur_index - 1;
     if (cur_index < 0) {
         cur_index = quotes.length - 1;
@@ -124,5 +129,14 @@ function handleTouchMove(evt) {
     yDown = null;
 };
 
+var oneSecond = 1000;
+var oneMinuite = 60 * oneSecond;
+setInterval(function() {
+    const now = Date.now();
+    const timeSinceLastQuoteChange = now - lastTimeQuoteChanged;
+    if (timeSinceLastQuoteChange > oneMinuite) {
+        newQuote();
+    }
+}, oneMinuite);
 
 // window.onload = main;
