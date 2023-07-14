@@ -339,5 +339,7 @@ var quotes = [
     {"quote":"Reality is merely an illusion, albeit a very persistent one.","author":"Albert Einstein"},
     {"quote":"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.","author":"Nelson Mandela"},
     {"quote":"The lust for comfort, that stealthy thing that enters the house a guest, and then becomes a host, and then a master.","author":"Khalil Gibran"},
-    {"quote":"Nobody cares how much you know, until they know how much you care.","author":"Theodore Roosevelt"}
+    {"quote":"Nobody cares how much you know, until they know how much you care.","author":"Theodore Roosevelt"},
+    {"quote":"Confidence is not, 'They will like me'. Confidence instead is, 'I'll be fine if they don't'.","author":"Christina Grimmie"},
+    {"quote":"People aren't born strong. People grow stronger little by little, encountering difficult situations, learning not to run from them.","author":"Christina Grimmie"}
 ]
