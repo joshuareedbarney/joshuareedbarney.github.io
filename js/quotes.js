@@ -341,5 +341,6 @@ var quotes = [
     {"quote":"The lust for comfort, that stealthy thing that enters the house a guest, and then becomes a host, and then a master.","author":"Khalil Gibran"},
     {"quote":"Nobody cares how much you know, until they know how much you care.","author":"Theodore Roosevelt"},
     {"quote":"Confidence is not, 'They will like me'. Confidence instead is, 'I'll be fine if they don't'.","author":"Christina Grimmie"},
-    {"quote":"People aren't born strong. People grow stronger little by little, encountering difficult situations, learning not to run from them.","author":"Christina Grimmie"}
+    {"quote":"People aren't born strong. People grow stronger little by little, encountering difficult situations, learning not to run from them.","author":"Christina Grimmie"},
+    {"quote":"We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important choices wisely.","author":"E. O. Wilson"}
 ]
