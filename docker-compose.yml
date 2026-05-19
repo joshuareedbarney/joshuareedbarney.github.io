@@ -1,0 +1,16 @@
+services:
+  quotes:
+    build: .
+    container_name: quotes
+    ports:
+      - "40168:80"
+    restart: unless-stopped
+    environment:
+      - TZ=America/Denver
+    labels:
+      - homepage.group=Media
+      - homepage.name=Quotes
+      - homepage.icon=/icons/quotes.png
+      - homepage.href=http://192.168.8.125:40168
+      - homepage.description=Favorite quotes
+      - homepage.weight=1000

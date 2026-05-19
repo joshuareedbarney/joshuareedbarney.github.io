@@ -5,25 +5,16 @@
         <title>
             Favorite Quotes
         </title>
-        <link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet"/>
         <link href="css/main.css" rel="stylesheet"/>
         <script src="js/quotes.js"></script>
         <script src="js/script.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1" /> 
 
-        <!-- https://stackoverflow.com/questions/4712242/wait-for-fonts-to-load-before-rendering-web-page -->
-        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
         <script>
-            WebFont.load({
-                custom: {
-                    families: ["Parisienne"]
-                },
-                active: function() {
-                    //Render your page
-                    main();
-                    newQuote();
-                }
-            });
+            window.onload = function() {
+                main();
+                newQuote();
+            };
         </script>
     </head>
     <body id="slider">

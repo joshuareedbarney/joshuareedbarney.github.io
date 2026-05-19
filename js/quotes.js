@@ -343,5 +343,12 @@ var quotes = [
     {"quote":"Confidence is not, 'They will like me'. Confidence instead is, 'I'll be fine if they don't'.","author":"Christina Grimmie"},
     {"quote":"People aren't born strong. People grow stronger little by little, encountering difficult situations, learning not to run from them.","author":"Christina Grimmie"},
     {"quote":"We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important choices wisely.","author":"E. O. Wilson"},
+    {"quote":"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.","author":"Maya Angelou"},
+    {"quote":"True wisdom lies not in being certain, but in knowing the limits of your own certainty.","author":"Veritasium"},
+    {"quote":"There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.","author":"Patrick Rothfuss"},
+    {"quote":"The public has a distorted view of science, because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries.","author":"Freeman Dyson"},
+    {"quote":"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.","author":"Confucius"},
+    {"quote":"Mockery is, quite often, just very confident ignorance.","author":"Hank Green"},
+    {"quote":"There are two things a person should never be angry at, what they can help, and what they cannot","author":"Plato"},
     {"quote":"Freedom is never voluntarily given by the opressor; it must be demanded by the opressed.","author":"Martin Luther King Jr."}
 ]
